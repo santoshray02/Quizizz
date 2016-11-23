@@ -7,7 +7,7 @@ link  https://github.com/santoshray02/Quizizz/blob/master/Codechef.java
 
 
 1. goto codechef.com/ide
-2. copy code from repositry from abovr link and paste on the codechef ide/editer
+2. copy code from repositry from above link and paste on the codechef ide/editer
 3. click on checkbok Custom Input 
 
 ## Input should like this : 
